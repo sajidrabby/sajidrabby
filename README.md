@@ -34,7 +34,7 @@ My focus is simple: **keep systems available, connected and working.**
 LOCATION      Al Khobar, Eastern Province, Saudi Arabia
 ROLE          IT Support Specialist / Windows System Administrator
 FOCUS         Infrastructure · Networking · Windows · Servers · CCTV
-CURRENT       Network Technician — Saudi Aramco Project
+CURRENT       Network & Telecom Technician — Dubaib & Sulaim Co. (DSCO)
 ```
 
 ---
@@ -167,6 +167,40 @@ Full-time · Oct 2017 – Nov 2019 · Chattogram, Bangladesh
 • Coordinated export/import shipments and customs compliance
 • Managed shipping documents (Invoices, Bills of Lading)
 • Served as primary client contact for shipment tracking & reports
+```
+
+---
+
+## `> education`
+
+```text
+2025 ───────────────────────────────────────────────►
+
+Goldsmiths, University of London
+BSc in Computer Science · 2025 – Present (Online via Coursera)
+
+• Pursuing degree focused on coding, problem solving, and software engineering
+• Applying core technical concepts directly to real-world infrastructure and projects
+
+
+2017 ─────────────────────────────── 2020
+
+Bangladesh Youth Technical Training
+Diploma in Computer Science & Information Technology · 2017 – 2020
+
+• Gained hands-on experience in computer fundamentals, programming, and hardware maintenance
+• Built practical foundations in networking, IT systems management, and troubleshooting
+
+
+National Bangla High School
+Secondary School Certificate (SSC) · Commerce Stream
+
+• Developed a strong analytical base in business, financial principles, and problem-solving
+• Built self-driven technical knowledge alongside formal academics
+```
+
+---
+
 ## `> featured.projects`
 
 <table>
