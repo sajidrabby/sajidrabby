@@ -10,7 +10,7 @@
   <a href="https://github.com/sajidrabby">
     <img src="https://img.shields.io/badge/GitHub-sajidrabby-0b0f14?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/sajid-rabby">
+  <a href="https://www.linkedin.com/in/sajidrabby">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0b0f14?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
   </a>
   <a href="https://sajidrabby.com">
@@ -34,7 +34,7 @@ My focus is simple: **keep systems available, connected and working.**
 LOCATION      Al Khobar, Eastern Province, Saudi Arabia
 ROLE          IT Support Specialist / Windows System Administrator
 FOCUS         Infrastructure · Networking · Windows · Servers · CCTV
-CURRENT       Network Technician — Saudi Aramco Project
+CURRENT       Network Technician — DUBAIB AND SULAIM COMPANY (DSCO)
 ```
 
 ---
@@ -111,8 +111,7 @@ CURRENT       Network Technician — Saudi Aramco Project
 ```text
 2026 ───────────────────────────────────────────────►
 
-DSCO — Network Technician
-Saudi Aramco Project · Dhahran, Saudi Arabia
+Network Technician - DUBAIB AND SULAIM COMPANY (DSCO)
 
 • Switches, routers and access points
 • LAN / WAN infrastructure
@@ -125,6 +124,7 @@ Saudi Aramco Project · Dhahran, Saudi Arabia
 2022 ─────────────────────────────── 2026
 
 IT Support Specialist / System Administrator
+Fahad Supplies Khalifa Dakhil Al Dubaib Est.
 
 • Windows systems and server administration
 • Active Directory user management
