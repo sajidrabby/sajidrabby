@@ -1,57 +1,243 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=MD%20RABBY%20MIA&fontSize=50&fontColor=fff&animation=fadeIn)
+<div align="center">
+
+# MD RABBY MIA
+
+### IT Support Specialist · Windows System Administrator
+
+**Windows Systems · Networking · Servers & Active Directory · CCTV**
+
+<p>
+  <a href="https://github.com/sajidrabby">
+    <img src="https://img.shields.io/badge/GitHub-sajidrabby-0b0f14?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/sajid-rabby">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0b0f14?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
+  </a>
+  <a href="https://sajidrabby.com">
+    <img src="https://img.shields.io/badge/Portfolio-sajidrabby.com-0b0f14?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
+</div>
+
+<img src="./assets/hero.svg" width="100%" alt="Animated IT infrastructure">
+
+---
+
+## `> system.info`
+
+I work with **Windows systems, networks, servers, Active Directory, Microsoft 365, hardware, CCTV and IT infrastructure**.
+
+My focus is simple: **keep systems available, connected and working.**
+
+```text
+LOCATION      Al Khobar, Eastern Province, Saudi Arabia
+ROLE          IT Support Specialist / Windows System Administrator
+FOCUS         Infrastructure · Networking · Windows · Servers · CCTV
+CURRENT       Network Technician — Saudi Aramco Project
+```
+
+---
+
+## `> technical.stack`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥 Windows & Systems
+
+- Windows 10 / 11
+- Windows Server
+- Active Directory
+- Group Policy
+- DNS / DHCP
+- Microsoft 365
+- User & Permission Management
+- System Troubleshooting
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Networking
+
+- TCP/IP
+- LAN / WAN
+- VLAN
+- Switches & Routers
+- MikroTik
+- Cisco
+- Wi-Fi
+- Structured Cabling
+- Fiber Optics
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗄 Servers & Data
+
+- Server Hardware
+- RAID
+- SQL Server
+- Backup & Storage
+- NAS
+- Hardware Monitoring
+- Server Troubleshooting
+
+</td>
+<td width="50%" valign="top">
+
+### 📹 Security & Infrastructure
+
+- CCTV
+- Hikvision
+- NVR / DVR
+- PoE
+- IP Cameras
+- VoIP / IP Systems
+- Cabling & Testing
+- Network Infrastructure
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> experience`
+
+```text
+2026 ───────────────────────────────────────────────►
+
+DSCO — Network Technician
+Saudi Aramco Project · Dhahran, Saudi Arabia
+
+• Switches, routers and access points
+• LAN / WAN infrastructure
+• Structured LAN and fiber cabling
+• Fiber testing and OTDR assistance
+• Telecom, VoIP / IP systems
+• CCTV and security systems
+
+
+2022 ─────────────────────────────── 2026
+
+IT Support Specialist / System Administrator
+
+• Windows systems and server administration
+• Active Directory user management
+• Network and firewall support
+• SQL Server monitoring
+• POS systems and hardware troubleshooting
+• IT infrastructure support
+```
+
+---
+
+## `> featured.projects`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 DSCO Website
+
+Company website project with a modern responsive interface.
+
+**HTML · CSS · JavaScript**
+
+<a href="https://www.dsco.com.sa/">View Website →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠 IT Support Portfolio
+
+My technical portfolio covering systems, networking, servers and infrastructure.
+
+**HTML · CSS · JavaScript**
+
+<a href="https://sajidrabby.com">View Portfolio →</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> github.activity`
 
 <div align="center">
 
-### IT Support Specialist | Dammam, Saudi Arabia
+<img src="https://github-readme-stats.vercel.app/api?username=sajidrabby&show_icons=true&hide_border=true&bg_color=0b0f14&title_color=64d9ff&text_color=9aa4b2&icon_color=64d9ff" height="165" alt="GitHub stats">
 
-## About Me
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidrabby&layout=compact&hide_border=true&bg_color=0b0f14&title_color=64d9ff&text_color=9aa4b2" height="165" alt="Top languages">
 
-I’m an IT Support & Network Technician with hands-on experience in IT support, networking, system administration, CCTV, and telecom systems.
+<br>
 
-I also enjoy web development and build websites and web projects using HTML, CSS, JavaScript, and Bootstrap for personal projects, clients, and company work.
-
-I use Git and GitHub to manage and share my projects, including live demos. I enjoy learning new technologies, solving real-world problems, and turning ideas into working solutions.
+<img src="https://streak-stats.demolab.com?user=sajidrabby&hide_border=true&background=0b0f14&ring=64d9ff&fire=64d9ff&currStreakLabel=64d9ff&sideLabels=9aa4b2&dates=6f7785&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub streak">
 
 </div>
 
 ---
 
-### 💻 Tech Stack
+## `> certifications`
 
-![HTML5](https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-333?style=for-the-badge&logo=bootstrap&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![UI Development](https://img.shields.io/badge/UI%20Development-333?style=for-the-badge&logo=uidevelopment&logoColor=white) ![Website Customization](https://img.shields.io/badge/Website%20Customization-333?style=for-the-badge&logo=websitecustomization&logoColor=white) ![Responsive Web Design](https://img.shields.io/badge/Responsive%20Web%20Design-333?style=for-the-badge&logo=responsivewebdesign&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-333?style=for-the-badge&logo=vscode&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-333?style=for-the-badge&logo=sqlserver&logoColor=white) ![Web Development](https://img.shields.io/badge/Web%20Development-333?style=for-the-badge&logo=webdevelopment&logoColor=white) ![IT Support](https://img.shields.io/badge/IT%20Support-333?style=for-the-badge&logo=itsupport&logoColor=white) ![Network Technician](https://img.shields.io/badge/Network%20Technician-333?style=for-the-badge&logo=networktechnician&logoColor=white) ![System Administration](https://img.shields.io/badge/System%20Administration-333?style=for-the-badge&logo=systemadministration&logoColor=white)
+```text
+CCNA
+CompTIA ITF+
+CompTIA A+
+CompTIA Network+
+Microsoft Azure
+Saudi Council of Engineers — Registered Member
+```
 
 ---
 
-### 📈 GitHub Stats
+## `> currently_learning`
+
+```text
+[■■■■■■■■■■] Windows Server & Active Directory
+[■■■■■■■■■□] Networking & Infrastructure
+[■■■■■■■■□ □] Python & Automation
+[■■■■■■■□□□] Web Development
+[■■■■■■■□□□] Cloud & Microsoft 365
+```
+
+---
+
+## `> contact`
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/sajidrabby&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+**Open to IT Support · System Administration · Network Technician opportunities**
+
+<br>
+
+<a href="https://www.linkedin.com/in/sajid-rabby">LinkedIn</a>
+&nbsp; · &nbsp;
+<a href="https://github.com/sajidrabby">GitHub</a>
+&nbsp; · &nbsp;
+<a href="https://sajidrabby.com">Portfolio</a>
+
+<br><br>
+
+```text
+> ping sajidrabby
+> connection established
+> status: available for IT support work
+```
 
 </div>
 
 ---
 
-### 🌱 Currently
-
----
-
-### 📫 Let's Connect
-
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.sajidrabby.com) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajidrabby.bd@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/https://x.com/sajidrabby1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sajidrabby) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/https://github.com/sajidrabby)
+### `KEEP SYSTEMS RUNNING. KEEP PEOPLE WORKING.`
+
+<img src="https://komarev.com/ghpvc/?username=sajidrabby&style=flat-square&color=0e9fca" alt="Profile views">
 
 </div>
-
----
-
----
-
----
-
-<div align="center">
-
-</div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
